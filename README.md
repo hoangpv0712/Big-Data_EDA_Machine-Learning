@@ -1,0 +1,3 @@
+# BusinessAnalysticsCapstoneProject
+
+Explanatory Data Analysis and Machine Learning using Spark on [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). This repositpory runs on Hadoop and Spark clusters. 
